@@ -2,7 +2,7 @@
 
 Foi usado para o desenvolvimento modelo do TensorFlow Object Detection  [`ssd_resnet_50_fpn_coco`](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/detection_model_zoo.md)
 
-#### Trecho do teste do modelo no centro da cidade de Juiz de Fora mno gif a abaixo:
+#### Trecho do teste do modelo no centro da cidade de Juiz de Fora no gif abaixo:
 
 <p align="center">
   
@@ -10,6 +10,6 @@ Foi usado para o desenvolvimento modelo do TensorFlow Object Detection  [`ssd_re
   
 </p>
 
-## Para saber maais
+## Para saber mais
 
-[**TensorFlow Object Detection - GitHub **](https://github.com/tensorflow/models/tree/master/research/object_detection)
+[TensorFlow Object Detection - GitHub ](https://github.com/tensorflow/models/tree/master/research/object_detection)
